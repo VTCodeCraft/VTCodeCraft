@@ -1,3 +1,7 @@
+<h1 align="center">👋 Hi, I'm Vishesh Tripathi</h1>
+<h3 align="center">Full-Stack Developer</h3>
+
+
 # 💫 About Me:
 👨‍💻 I’m currently working on full-stack web apps and sharpening DSA in Java  <br>🤝 I’m looking to collaborate on web/AI projects and problem-solving communities  <br>🆘 I’m looking for help with advanced system design and scalable architecture  <br>🌱 I’m currently learning backend architecture, cloud deployment, and competitive programming  <br>💬 Ask me about Next.js, Node.js, APIs, DSA in Java, and LeetCode problem solving  <br>⚡ Fun fact: Solved 160+ LeetCode problems and maintaining a strong daily coding streak<br>
 
