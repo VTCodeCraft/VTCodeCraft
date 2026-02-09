@@ -63,19 +63,14 @@
 <div align="center">
 
   <a href="https://github.com/VTCodeCraft">
-    <img src="https://github-readme-stats.vercel.app/api?username=VTCodeCraft&theme=shadow_green&hide_border=false&include_all_commits=true&show_icons=true" height="170" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/VTCodeCraft">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTCodeCraft&theme=shadow_green&hide_border=false&include_all_commits=true&layout=compact" height="170" alt="Top Langs" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=VTCodeCraft&theme=shadow_green&hide_border=false" alt="GitHub Streak" />
   </a>
 
   <br/>
+  <br/>
 
-  <a href="https://github.com/VTCodeCraft">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=VTCodeCraft&theme=shadow_green&hide_border=false" height="170" alt="Streak Stats" />
-  </a>
   <a href="https://leetcode.com/vtcodecraft">
-    <img src="https://leetcard.jacoblin.cool/VTCodeCraft?theme=dark&font=Fira%20Code&ext=heatmap" height="170" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/VTCodeCraft?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 
 </div>
