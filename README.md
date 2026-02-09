@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Vishesh Tripathi</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center"> Full-Stack Develope </h3>
 
 
 # 💫 About Me:
