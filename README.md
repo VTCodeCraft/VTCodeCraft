@@ -9,12 +9,7 @@
 
 </a>
 
-<br/>
 
-<!-- Animated profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=VTCodeCraft&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&animated=true" alt="Profile Views" />
-
-<br/>
 <br/>
 
 <!-- Social badges with glow effect -->
@@ -37,6 +32,15 @@
 </p>
 </div>
 
+<div align="center">
+<br/>
+
+<!-- Animated profile views counter -->
+<img src="https://komarev.com/ghpvc/?username=VTCodeCraft&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&animated=true" alt="Profile Views" />
+
+<br/>
+
+</div>
 <br/>
 
 <!-- Animated divider -->
