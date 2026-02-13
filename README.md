@@ -170,7 +170,7 @@ const vishesh = {
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/VTCodeCraft?theme=dark&font=Fira%20Code&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/VTCodeCraft?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/vtcodecraft)
 
 </div>
 <!-- Animated divider -->
