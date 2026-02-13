@@ -32,7 +32,7 @@
 </p>
 </div>
 
-<div align="left">
+<div align="center">
 <br/>
 
 <!-- Animated profile views counter -->
