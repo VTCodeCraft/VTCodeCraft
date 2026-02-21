@@ -5,7 +5,7 @@
 
 <!-- Animated typing text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Full-Stack+Developer;Java+%26+DSA+Problem+Solver;160%2B+LeetCode+Problems+Solved;Engineering+Scalable+Web+Systems;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Full-Stack+Developer;Java+%26+DSA+Problem+Solver;180%2B+LeetCode+Problems+Solved;Engineering+Scalable+Web+Systems;Open+Source+Contributor" alt="Typing SVG" />
 
 </a>
 
@@ -83,7 +83,7 @@ const vishesh = {
 - 💪 Strengthening **Data Structures & Algorithms** in Java
 - 🌩️ Learning **Cloud Architecture** and **System Design**
 - 🤝 Contributing to **Open Source** projects
-- 📈 Maintaining a **160+ problem streak** on LeetCode
+- 📈 Maintaining a **180+ problem streak** on LeetCode
 
 <br/>
 
