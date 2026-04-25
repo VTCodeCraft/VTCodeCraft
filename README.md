@@ -149,19 +149,12 @@ const vishesh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VTCodeCraft&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&v=2" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VTCodeCraft&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&cache_seconds=0&v=3" />
 </div>
 
 <div align="center">
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=VTCodeCraft&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&v=2" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=VTCodeCraft&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&cache_seconds=0&v=3" />
 </div>
-
-<br/>
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?v=2">
-
-<br/>
 
 ## 💻 LeetCode Stats
 
