@@ -33,7 +33,7 @@
 <div align="center">
 <br/>
 
-<!-- Animated profile views counter -->
+<!--  profile views counter -->
 <img src="https://komarev.com/ghpvc/?username=VTCodeCraft&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&animated=true" alt="Profile Views" />
 
 <br/>
