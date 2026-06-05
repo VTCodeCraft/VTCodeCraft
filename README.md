@@ -145,11 +145,13 @@ const vishesh = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VTCodeCraft&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&cache_seconds=0&v=3" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VTCodeCraft&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&cache_seconds=0" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTCodeCraft&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&cache_seconds=0" />
+
 </div>
 
 <div align="center">
