@@ -32,13 +32,11 @@
 
 <div align="center">
 <br/>
+<img src="https://komarev.com/ghpvc/?username=VTCodeCraft&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 
-<!--  profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=VTCodeCraft&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&animated=true" alt="Profile Views" />
-
-<br/>
-
-</div>
+<a href="https://u8views.com/github/VTCodeCraft">
+  <img src="https://u8views.com/api/v1/github/profiles/201980705/views/day-week-month-total-count.svg">
+</a>
 <br/>
 
 <!-- Animated divider -->
